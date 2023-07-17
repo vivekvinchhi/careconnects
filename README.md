@@ -93,8 +93,7 @@ Back-End:
 ## Patient Dashboard 
 ![Patient Dashboard](https://user-images.githubusercontent.com/102732439/236602344-df8fdb56-c3a0-4a83-90c5-dbfa119ef5e2.png)
 
-## Doctor Dashboard
-![Doctor Dashboard](https://user-images.githubusercontent.com/102732439/236601337-74215b56-d767-476f-b677-f8b824d159d7.png)
+
 
 
 
