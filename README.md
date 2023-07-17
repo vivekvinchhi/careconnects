@@ -6,7 +6,7 @@ CareConnect is a web application that allows patients to schedule appointments w
 
 ## Getting Started
 To get started with the application, clone the repository to your local machine:
-
+https://github.com/vivekvinchhi/careconnects.git
 
 
 Once you have cloned the repository, navigate to the project directory and install the dependencies:
