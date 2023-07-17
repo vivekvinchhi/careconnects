@@ -74,7 +74,7 @@ const Footer = () => {
                 <FontAwesomeIcon icon={faTwitter} />
               </div>
               <small>Call Now</small>
-              <p className="callNow">+918460880205</p>
+              <p className="callNow">+919510667063</p>
             </div>
           </div>
         </div>
