@@ -90,8 +90,7 @@ Back-End:
 ## Doctor Registration page
 ![Doctor form](https://user-images.githubusercontent.com/102732439/236602320-2fca1f11-3d1d-4acc-b55c-5dddd7365459.png)
 
-## Patient Dashboard 
-![Patient Dashboard](https://user-images.githubusercontent.com/102732439/236602344-df8fdb56-c3a0-4a83-90c5-dbfa119ef5e2.png)
+
 
 
 
